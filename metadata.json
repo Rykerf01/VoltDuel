@@ -1,0 +1,9 @@
+{
+  "name": "VoltDuel: Feel your Phantom",
+  "description": "High-Intensity Immersive Rhythm-Combat Framework. Gyro-momentum based combat.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
